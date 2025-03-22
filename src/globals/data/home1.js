@@ -72,21 +72,24 @@ export const data = {
     solutions: [
       {
         serial: "01",
-        title: "Solutions and specialized expertise",
-        subtitle:
-          "Our aim is to optimize and improve your supply chain so that we can give you the best service",
+        title: "VERTICAL TRANSPORT",
+        subtitle: `We provide high-performance elevators tailored 
+for residential, commercial, and industrial use, 
+ensuring safe and efficient vertical mobility.`,
       },
       {
         serial: "02",
-        title: "Multiple warehouses",
-        subtitle:
-          "We provide multiple drop off and pickup locations so you don't have to worry. And you should not face any kind...",
+        title: "HORIZONTAL TRANSPORT",
+        subtitle: `Our escalators and moving walkways deliver 
+smooth, energy-efficient solutions for public 
+spaces, enhancing passenger flow with reliability. `,
       },
       {
         serial: "03",
-        title: "Tracking made easy",
-        subtitle:
-          "A tracking number for the entire process. so that you can find the exact position. it will help you",
+        title: "SPARE PARTS SOLUTIONS ",
+        subtitle: `We offer genuine spare parts for elevators and 
+escalators, ensuring optimal performance and 
+reducing downtime for long-term reliability. `,
       },
     ],
   },
@@ -105,8 +108,7 @@ export const data = {
     partners: [
       {
         pic: global.testim + "pic1.jpg",
-        quote:
-          "Nemo enim ipsam voluptate voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratio ne voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi",
+        quote: `We excel in providing complete elevator, escalator, and spare parts solutions, prioritizing reliability, efficiency, and safety at every step. `,
         name: "Peter Len",
         designation: "Web Designer",
       },
@@ -229,27 +231,28 @@ every installation. `,
         image: global.blog1 + "bg1.jpg",
         day: "02",
         month: "Aug",
-        title:
-          "At the end of the day, going forward, a new normal that has evolved from.",
-        description:
-          "New chip traps clusters of migrating tumor cells asperiortenetur, blanditiis odit.",
+        title: "VERTICAL TRANSPORT ",
+        description: `We provide high-performance elevators tailored 
+for residential, commercial, and industrial use, 
+ensuring safe and efficient vertical mobility.`,
       },
       {
         image: global.blog2 + "l-1.jpg",
         day: "08",
         month: "Aug",
-        title:
-          "How all this mistaken idea denouncing pleasure and praising pain was.",
-        description:
-          "New chip traps clusters of migrating tumor cells asperiortenetur, blanditiis odit.",
+        title: "HORIZONTAL TRANSPORT ",
+        description: `Our escalators and moving walkways deliver 
+smooth, energy-efficient solutions for public 
+spaces, enhancing passenger flow with reliability. `,
       },
       {
         image: global.blog1 + "bg3.jpg",
         day: "21",
         month: "Aug",
-        title: "Going forward, a new normal that has evolved from generation.",
-        description:
-          "New chip traps clusters of migrating tumor cells asperiortenetur, blanditiis odit.",
+        title: "SPARE PARTS SOLUTIONS",
+        description: `We offer genuine spare parts for elevators and 
+escalators, ensuring optimal performance and 
+reducing downtime for long-term reliability.`,
       },
     ],
   },
@@ -260,20 +263,26 @@ every installation. `,
     projects: [
       {
         image: global.projects + "1.jpg",
-        title: "Warehousing, Distrbution",
-        subtitle: "Warehouse inventory",
+        title: "SPARE PARTS SOLUTIONS",
+        subtitle: `We offer genuine spare parts for elevators and 
+escalators, ensuring optimal performance and 
+reducing downtime for long-term reliability.`,
         caption: "Nh-16 Highway Bridge",
       },
       {
         image: global.projects + "2.jpg",
-        title: "Logistics, Analytics",
-        subtitle: "Minimize Manufacturing",
+        title: "HORIZONTAL TRANSPORT",
+        subtitle: `Our escalators and moving walkways deliver 
+smooth, energy-efficient solutions for public 
+spaces, enhancing passenger flow with reliability.`,
         caption: "Nh-16 Highway Bridge",
       },
       {
         image: global.projects + "3.jpg",
-        title: "Warehousing, Distrbution",
-        subtitle: "Warehouse inventory",
+        title: "VERTICAL TRANSPORT",
+        subtitle: `We provide high-performance elevators tailored 
+for residential, commercial, and industrial use, 
+ensuring safe and efficient vertical mobility.`,
         caption: "Nh-16 Highway Bridge",
       },
     ],
